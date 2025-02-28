@@ -1,4 +1,3 @@
-Here's the **README.md** file for your project:
 
 ### Web Application Mimicking Google Sheets
 **Zeotap Software Engineer Intern Assignment 1**
